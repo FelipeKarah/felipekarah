@@ -4,7 +4,7 @@
 
 Sou **Desenvolvedor Full Stack** com formação em **Engenharia Mecatrônica** e 8 anos de experiência no desenvolvimento de aplicações web. Minha trajetória começou em 2016 na área de **suporte técnico**, evoluindo rapidamente para **desenvolvimento web**.
 
-Atualmente trabalho como **Desenvolvedor Pleno Full Stack**, utilizando tecnologias modernas para frontend e backend. Tenho paixão por resolver problemas e aplicar boas práticas de desenvolvimento.
+Atualmente trabalho como **Desenvolvedor Full Stack**, utilizando tecnologias modernas para frontend e backend. Tenho paixão por resolver problemas e aplicar boas práticas de desenvolvimento.
 
 ---
 
